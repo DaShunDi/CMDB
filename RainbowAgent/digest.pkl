@@ -1,0 +1,14 @@
+(dp0
+S'all'
+p1
+S'b104f003297f3e357408eccc2a586c66'
+p2
+sS'MemArray'
+p3
+S'3bf56d5966d1ac866de61cdbf6c695d8'
+p4
+sS'MemDevice_B58C8290'
+p5
+S'e7bd6786214e398600c39603950aa353'
+p6
+s.
